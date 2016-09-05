@@ -445,5 +445,4 @@ CrossTable(x=test_labels,y=test_pred_15,prop.chisq = FALSE)
 
 Resumiendo KNN utiliza el cálculo de distancias para coger una nueva observación y colocarla en vecino más similar. Es sencillo y permite como en el ejemplo anterior clasificar correctamente el 98% de los datos.
 
-#Aprendizaje probabilistico - Clasificación Naive Bayes
 
